@@ -32,4 +32,6 @@
 ## Agradecimentos
 
 Obrigado por visitar o meu perfil! Vamos nos conectar e colaborar em projetos incríveis juntos.
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="nicolas-yanase" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/nicolas-yanase?trk=profile-badge">Nicolas Yanase</a></div>
+              
