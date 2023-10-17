@@ -16,7 +16,6 @@
 
 - Landing_page-Boostgram - Landing Page empreendedores digitais e querem oferecer um curso chamado Boostgram, onde os mesmos ensinam a como utilizar o Instagram para realizar vendas online como afiliado e obter uma nova forma de renda.
 - Landing_page-Design_Interiores - Projeto da landing page realizada com o objetivo de captar leads gerados por tráfego pago.
-- ...
 
 ## Contato
 
