@@ -34,4 +34,3 @@
 
 Obrigado por visitar o meu perfil! Vamos nos conectar e colaborar em projetos incríveis juntos.
 
-[![Badge de LinkedIn](URL da imagem do badge do LinkedIn)](URL do seu perfil do LinkedIn)
