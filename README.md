@@ -8,8 +8,9 @@
 
 ## Habilidades
 
-- 💻 Linguagens de programação: Java, html/css, JavaScript, Python, PHP, Portugol e C#
-- 🛠️ Ferramentas e Tecnologias: MySQL, 
+- 🎨 UI & UX Design
+- 💻 Front End: HTML, CSS, JavaScript.
+- 🛠️ Ferramentas e Tecnologias: MySQL, Figna, Canav, Inkscape, Coredraw
 - 📚 Sempre aprendendo e buscando novos conhecimentos
 
 ## Projetos
