@@ -3,20 +3,22 @@
 ## Sobre mim
 
 - 🌐 Estudante de Desenvolvimento de Software na FATEC Zona Leste
-- 💼 Formado em Técnico em Informática epla ETEC São Mateus
+- 💼 Formado em Técnico em Informática pela ETEC São Mateus
 - 🚀 Explorando o mundo da programação, aprendendo e criando coisas incríveis
 
 ## Habilidades
 
 - 🎨 UI & UX Design
 - 💻 Front End: HTML, CSS, JavaScript.
-- 🛠️ Ferramentas e Tecnologias: MySQL, Figna, Canav, Inkscape, Coredraw
+- 🛠️ Ferramentas e Tecnologias: MySQL, Figma, Canva, Inkscape, Coredraw
 - 📚 Sempre aprendendo e buscando novos conhecimentos
 
 ## Projetos
 
+- Bikcraft - Neste projeto faço uma pagina de compras bem detalhada e funcional com HTML e CSS para uma loja de bicicletas chamada Bikcraft.
 - Landing_page-Boostgram - Landing Page empreendedores digitais e querem oferecer um curso chamado Boostgram, onde os mesmos ensinam a como utilizar o Instagram para realizar vendas online como afiliado e obter uma nova forma de renda.
 - Landing_page-Design_Interiores - Projeto da landing page realizada com o objetivo de captar leads gerados por tráfego pago.
+
 
 ## Contato
 
