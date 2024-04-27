@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=754EFF&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=754EFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Nicolas+Yanase+Alvarez;I'm+19+years+old;I+am+from+São+Paulo,+SP;I+study+software+development+at+FATEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=754EFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Nicolas+Yanase;I'm+19+years+old;I+am+from+São+Paulo,+SP;I+study+software+development+at+FATEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div>
 <img align='right' height='590em' src='https://raw.githubusercontent.com/gist/Nick-Yanase/15b29a1861e9b1d4b1da0087a1d5e8d6/raw/0949ca765d06415bb858a03d044bf6b80ae70837/githubCard.svg'>
