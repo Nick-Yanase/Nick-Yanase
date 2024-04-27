@@ -21,6 +21,7 @@
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![oracle](https://img.shields.io/badge/-oracle-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117)
 ![inkscape](https://img.shields.io/badge/-inkscape-0D1117?style=for-the-badge&logo=inkscape&labelColor=0D1117)
+![scrum](https://img.shields.io/badge/-scrum-0D1117?style=for-the-badge&logo=scrum&labelColor=0D1117)
 
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
