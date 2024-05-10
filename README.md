@@ -19,7 +19,7 @@
 ![next-js](https://img.shields.io/badge/-next.js-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117)
 
 ### Other Knowledge:
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&labelColor=7952B3&logoColor=FFFFFF)](https://getbootstrap.com/)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=purple&labelColor=transparent)
 ![oracle](https://img.shields.io/badge/-oracle-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117)
 ![inkscape](https://img.shields.io/badge/-inkscape-0D1117?style=for-the-badge&logo=inkscape&labelColor=0D1117)
 ![scrum](https://img.shields.io/badge/-scrum-0D1117?style=for-the-badge&logo=scrum&labelColor=0D1117)
