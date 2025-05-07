@@ -16,9 +16,11 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![next-js](https://img.shields.io/badge/-next.js-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117)
 
+
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-
+![mongodb](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=4EA94B&labelColor=0D1117)
+![python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=yellow&labelColor=0D1117)
 
 ### Other Knowledge:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=purple&labelColor=transparent)
